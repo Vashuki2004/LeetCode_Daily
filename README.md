@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/0128-longest-consecutive-sequence) |
+| [0202-happy-number](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/0202-happy-number) |
 | [1635-number-of-good-pairs](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/1635-number-of-good-pairs) |
 ## Union Find
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/0202-happy-number) |
 | [1635-number-of-good-pairs](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/1635-number-of-good-pairs) |
 ## Counting
 |  |
