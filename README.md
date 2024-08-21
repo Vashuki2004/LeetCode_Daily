@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/0258-add-digits) |
 | [1635-number-of-good-pairs](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/1635-number-of-good-pairs) |
 ## Counting
 |  |
@@ -65,4 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/0011-container-with-most-water) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
