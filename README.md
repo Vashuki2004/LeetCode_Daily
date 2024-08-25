@@ -54,10 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/0231-power-of-two) |
 ## Math
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/0258-add-digits) |
 | [1635-number-of-good-pairs](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/1635-number-of-good-pairs) |
 ## Counting
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/0160-intersection-of-two-linked-lists) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
