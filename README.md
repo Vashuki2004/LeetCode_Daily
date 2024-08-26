@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/0202-happy-number) |
 | [1635-number-of-good-pairs](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/1635-number-of-good-pairs) |
+| [1844-maximum-number-of-balls-in-a-box](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/1844-maximum-number-of-balls-in-a-box) |
 ## Union Find
 |  |
 | ------- |
@@ -63,10 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/0263-ugly-number) |
 | [1635-number-of-good-pairs](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/1635-number-of-good-pairs) |
+| [1844-maximum-number-of-balls-in-a-box](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/1844-maximum-number-of-balls-in-a-box) |
 ## Counting
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/1635-number-of-good-pairs) |
+| [1844-maximum-number-of-balls-in-a-box](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/1844-maximum-number-of-balls-in-a-box) |
 ## Greedy
 |  |
 | ------- |
