@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0278-first-bad-version](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/0278-first-bad-version) |
 ## Sorting
 |  |
 | ------- |
@@ -99,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
