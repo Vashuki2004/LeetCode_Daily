@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0038-count-and-say](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/0125-valid-palindrome) |
 ## Binary Search
 |  |
