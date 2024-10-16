@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/0231-power-of-two) |
 ## Math
 |  |
@@ -108,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/0278-first-bad-version) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
