@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/0012-integer-to-roman) |
 | [0202-happy-number](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/0231-power-of-two) |
