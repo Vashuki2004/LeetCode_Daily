@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1319-unique-number-of-occurrences](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/1319-unique-number-of-occurrences) |
 | [1635-number-of-good-pairs](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/1635-number-of-good-pairs) |
 ## Hash Table
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/0202-happy-number) |
+| [1319-unique-number-of-occurrences](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/1319-unique-number-of-occurrences) |
 | [1635-number-of-good-pairs](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/1635-number-of-good-pairs) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/1844-maximum-number-of-balls-in-a-box) |
 ## Union Find
