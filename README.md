@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/0169-majority-element) |
 | [1319-unique-number-of-occurrences](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/1319-unique-number-of-occurrences) |
 | [1635-number-of-good-pairs](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/1635-number-of-good-pairs) |
 ## Hash Table
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0128-longest-consecutive-sequence](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/0202-happy-number) |
 | [1319-unique-number-of-occurrences](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/1319-unique-number-of-occurrences) |
 | [1635-number-of-good-pairs](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/1635-number-of-good-pairs) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/0169-majority-element) |
 | [1635-number-of-good-pairs](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/1635-number-of-good-pairs) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/1844-maximum-number-of-balls-in-a-box) |
 ## Greedy
@@ -116,5 +120,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Vashuki2004/LeetCode_Daily/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
